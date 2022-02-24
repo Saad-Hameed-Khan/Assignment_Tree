@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+*.db
+*.opendb
+*.ipch
+*.lastbuildstate
+*.tlog
+*.log
+*.idb
+
+**/Debug
+**/Release
